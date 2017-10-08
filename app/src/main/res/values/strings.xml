@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Primera Aplicacion</string>
+    <string name="app_title">Bienvenidos al Mundo de Android</string>
+    <string name="edit_name">Ingrese su Nombre</string>
+    <string name="text_carrera">Carrera</string>
+    <string name="button_send">Enviar</string>
+</resources>
